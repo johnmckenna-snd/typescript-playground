@@ -1,5 +1,5 @@
 export function yeetYeet (): ComplexObject {
-  console.log('yeetYeet!')
+  console.log('yeetYeet!');
 
   const yeet: ComplexObject = {
     key: 'woot',

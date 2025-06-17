@@ -14,3 +14,8 @@ const returnValue: ComplexObject = yeetYeet();
 
 console.log(returnValue.enum);
 
+function test (name: string): void {
+  console.log(name)
+}
+
+
